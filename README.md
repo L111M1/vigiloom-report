@@ -2,10 +2,12 @@
 
 Online report: https://l111m1.github.io/vigiloom-report/
 
-This repository contains the generated English HTML report for five SGLT2 community signals. The three existing investigations are retained unchanged; the expansion adds the two highest-priority uninvestigated candidates (empagliflozin euglycemic diabetic ketoacidosis and diabetic ketoacidosis). This is a retained-three-plus-two selection, not a fresh top-five ranking.
+This repository contains the generated English HTML report for five cetirizine community signals: anaphylaxis, flare of urticaria, leg edema, suicidal ideation, and syncope. All five investigations have completed their scheduled tasks and model source-grounding review. The leg-edema and syncope investigations were recovered on 23 October 2026; the three previously completed results are retained unchanged.
 
-The report includes 15 source-reviewed research findings and 15 API-generated post backgrounds. Source numbers link to the adopted references at each candidate's end. Candidate counts may overlap and must not be added. Navigation and reference lists can be collapsed.
+The report includes 27 source-reviewed research findings and 13 case backgrounds: 12 API-generated, source-reviewed summaries and one explicitly labelled original-post excerpt. Source numbers link to the adopted references at each candidate's end. Candidate counts may overlap and must not be added. Navigation and reference lists can be collapsed.
 
-Generator source: https://github.com/L111M1/vigiloom/commit/d3f8d34
+Generator source: https://github.com/L111M1/vigiloom/commit/0ad22c8e7a87d990407c996c6f495e035acbae75
+
+Source run: `runs/cetirizine_qwen38_v1/report.html`. The published `index.html` is an unchanged copy of this generated report.
 
 Model source review checks fidelity to captured evidence and does not constitute independent clinical validation.
