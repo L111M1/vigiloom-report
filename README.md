@@ -6,7 +6,7 @@ This repository contains the generated English HTML report for five cetirizine c
 
 The report includes 27 source-reviewed research findings and 13 case backgrounds: 12 API-generated, source-reviewed summaries and one explicitly labelled original-post excerpt. Source numbers link to the adopted references at each candidate's end. Candidate counts may overlap and must not be added. Navigation and reference lists can be collapsed.
 
-Generator source: https://github.com/L111M1/vigiloom/commit/0ad22c8e7a87d990407c996c6f495e035acbae75
+Generator source: https://github.com/L111M1/vigiloom/commit/8e49d36
 
 Source run: `runs/cetirizine_qwen38_v1/report.html`. The published `index.html` is an unchanged copy of this generated report.
 
