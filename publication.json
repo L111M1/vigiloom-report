@@ -5,8 +5,14 @@
   "investigations": 24,
   "completed": 24,
   "files": {
+    "index.html": "0dc225dfd65dd0407fb1dba9890ee72331bad666bfdb12ea476775251ffaa668",
+    "report.html": "0dc225dfd65dd0407fb1dba9890ee72331bad666bfdb12ea476775251ffaa668",
+    "report_zh.html": "2d01e30645334879e7fcbfa731bc7eec305b5049e87840551efe0ceb13bc3727"
+  },
+  "local_source_sha256": {
     "index.html": "64a93ed4f5c51561330a7bb5ef654c547c758b5af1cf9bef8c7194a1dda7a652",
     "report.html": "64a93ed4f5c51561330a7bb5ef654c547c758b5af1cf9bef8c7194a1dda7a652",
     "report_zh.html": "4f85a5b5d776d3104741900c0347824c73bd4ff4d93903958d6219927108b01d"
-  }
+  },
+  "line_endings": "Published UTF-8 uses LF; local Windows CRLF line endings are normalized by Git."
 }
