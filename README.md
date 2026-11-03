@@ -1,11 +1,11 @@
-# VigiLoom English report
+# Medication safety investigation report
 
-[Read the report](https://l111m1.github.io/vigiloom-report/)
+[Latest English report](https://l111m1.github.io/vigiloom-report/) · [Chinese translation](https://l111m1.github.io/vigiloom-report/report_zh.html)
 
-The current publication covers 24 pregabalin Bank-derived research topics, using community posts from r/ChronicPain, r/Fibromyalgia, r/Anxiety and r/RestlessLegs. All 24 investigations have completed their task execution and model source-grounding review.
+Published 3 November 2026 from the latest generated pregabalin report. All 24 candidate investigations are completed and use target-bound authority policy v2. The landing page is a byte-for-byte copy of the current English HTML; the Chinese page is the cached translated view. Both omit the closing generic limitations and system-audit section.
 
-`index.html` is an unchanged copy of `runs/pregabalin_four_v1/report.html`, generated locally on 1 November 2026. The previous cetirizine landing report is replaced; it remains available in Git history. Only the English report is hosted.
+`publication.json` records the source session and HTML SHA256 hashes. `report.html` mirrors the landing page so the Chinese view's English link remains valid.
 
-**Evidence coverage:** subsequent review identified records missed by the investigation. See [the evidence audit and remaining unsupported propositions](evidence-audit.md). Investigation completion and model source review do not establish causality or novelty. The audit does not modify the archived model output.
+The previous [evidence audit](evidence-audit.md) is a historical note dated 1 November; it does not describe the publication status of this version.
 
 [Generator repository](https://github.com/L111M1/vigiloom)

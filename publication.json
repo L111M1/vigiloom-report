@@ -1,0 +1,12 @@
+{
+  "published_date": "2026-11-03",
+  "run": "pregabalin_four_v1",
+  "session_id": "cde2c6cb246efcd80575062fa946ca9137acc16f140326b0c84b902ec67a4748",
+  "investigations": 24,
+  "completed": 24,
+  "files": {
+    "index.html": "64a93ed4f5c51561330a7bb5ef654c547c758b5af1cf9bef8c7194a1dda7a652",
+    "report.html": "64a93ed4f5c51561330a7bb5ef654c547c758b5af1cf9bef8c7194a1dda7a652",
+    "report_zh.html": "4f85a5b5d776d3104741900c0347824c73bd4ff4d93903958d6219927108b01d"
+  }
+}
