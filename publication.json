@@ -5,21 +5,22 @@
   "investigations": 24,
   "completed": 24,
   "files": {
-    "index.html": "786204818aabc1a1e47a7b0ae7b5f329bf3559fb627502e401632b6b7b4e734a",
-    "report.html": "786204818aabc1a1e47a7b0ae7b5f329bf3559fb627502e401632b6b7b4e734a",
-    "report_zh.html": "6a5e92bae203d8122110092f91a58bbcadb5aed5b2ba5b488b43ae99f79d72d5"
+    "index.html": "64e3eab2599b3679c00079f33883bb2f85ef71334b4c8ce5efac458121acd7b1",
+    "report.html": "64e3eab2599b3679c00079f33883bb2f85ef71334b4c8ce5efac458121acd7b1",
+    "report_zh.html": "f56240f90324d4294a3ea6354b22cae48c03a0fd1da6e8159761854bb45ec88f"
   },
   "local_source_sha256": {
-    "index.html": "86b021d7ede9c49e659b7e6b587626ed2cd65bd164650947e8b458d178ca5b87",
-    "report.html": "86b021d7ede9c49e659b7e6b587626ed2cd65bd164650947e8b458d178ca5b87",
-    "report_zh.html": "a25c3839192f8ff4c66fe1fcddd5701f13a281bebbf0e03f07336e30caf8ab64"
+    "index.html": "18fa41e23c2cac21ff757528944e8f605a98924bfcf9fb396a24a80991215177",
+    "report.html": "18fa41e23c2cac21ff757528944e8f605a98924bfcf9fb396a24a80991215177",
+    "report_zh.html": "82b4d2977d10de9c99244ef9e3893fab9cb352e0e6c9292fd1ed607be6aa6d29"
   },
   "line_endings": "Published UTF-8 uses LF; local Windows CRLF line endings are normalized by Git.",
-  "generator_commit": "d6567704586c6e9b46575a6f433246e9f54d5afb",
+  "generator_commit": "cf9bfb45f37b7def3295eb6d1a2c7056bd7fc3d3",
   "features": [
     "bilingual symptom search",
     "drug and investigation filters",
     "mobile symptom finder",
-    "source-linked deep navigation"
+    "source-linked deep navigation",
+    "return to previous reading position"
   ]
 }

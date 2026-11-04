@@ -11,3 +11,5 @@ The previous [evidence audit](evidence-audit.md) is a historical note dated 1 No
 [Generator repository](https://github.com/L111M1/vigiloom)
 
 The current HTML includes a sticky bilingual symptom finder, drug filters, investigated/catalog scopes, and direct links to reviewed reactions in the sidebar. Search runs inside the page without model or backend requests.
+
+Internal report links reveal a circular upward-arrow control that returns to the previous reading position. The control supports consecutive returns and is excluded from PDF output.
