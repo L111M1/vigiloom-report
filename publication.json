@@ -1,7 +1,7 @@
 {
   "version": 2,
   "published_date": "2026-11-04",
-  "generator_commit": "6024a65a335a2b26cd8c2eceb58469132ff9abce",
+  "generator_commit": "bcddb03af1c4929cc22f09f249d45fdf10c5fc32",
   "legacy_report": "pregabalin",
   "reports": [
     {
@@ -62,6 +62,6 @@
     "report.html": "d59d05e611c8e2d6427f0f08e110801dc7e4e028732b93188aaded284d07aaa7",
     "reports/pregabalin/report_zh.html": "b03ed1c10024f037176d6c040fe1e2bccbbf89d003df7130b85268147898bbde",
     "report_zh.html": "0a987444546cff0798048b3455b027c13936b97594f0eb6f5b881052d3b246da",
-    "index.html": "bb3cc24a65870ff9265ae8a51547a710c74260b7286b7a0a290365705f495abd"
+    "index.html": "b111a9ee7cf4d7179f12f51cfd66642f74348336039b732feb7bc9df45a0cb12"
   }
 }
