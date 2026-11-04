@@ -1,15 +1,23 @@
-# Medication safety investigation report
+# Drug safety research report library
 
-[Latest English report](https://l111m1.github.io/vigiloom-report/) · [Chinese translation](https://l111m1.github.io/vigiloom-report/report_zh.html)
+[Open the report library](https://l111m1.github.io/vigiloom-report/)
 
-Published 4 November 2026 from the latest generated pregabalin report. All 24 candidate investigations are completed and use target-bound authority policy v2. The landing page matches the current English HTML after Git line-ending normalization; the Chinese page is the cached translated view. Both omit the closing generic limitations and system-audit section.
+The shared landing page offers Chinese and English versions of three completed studies:
 
-`publication.json` records the source session and HTML SHA256 hashes. `report.html` mirrors the landing page so the Chinese view's English link remains valid.
+| Study | English | Chinese |
+|---|---|---|
+| SGLT2 inhibitors (four-drug study) | [Read](reports/sglt2/report.html) | [阅读](reports/sglt2/report_zh.html) |
+| Cetirizine | [Read](reports/cetirizine/report.html) | [阅读](reports/cetirizine/report_zh.html) |
+| Pregabalin | [Read](reports/pregabalin/report.html) | [阅读](reports/pregabalin/report_zh.html) |
 
-The previous [evidence audit](evidence-audit.md) is a historical note dated 1 November; it does not describe the publication status of this version.
+Each report includes symptom search, collapsible navigation, source links, an internal-link return control and a link back to the report library. Reports remain self-contained HTML. The publication process adds navigation without changing clinical findings or calling APIs.
+
+Root `report.html` and `report_zh.html` preserve existing pregabalin links. Previously shared root URLs containing report anchors continue to the English pregabalin report.
+
+`publication.json` records source runs, source HTML hashes, the generator commit and SHA256 hashes of all published HTML. Files are published as UTF-8/LF.
+
+To update the website, regenerate reports in the private local runs, update `config/report_library.json` in the generator repository, then run `tools/publish_reports.py --output <this checkout>`. Review and push this publication checkout separately. The script does not run research or make Git changes itself.
 
 [Generator repository](https://github.com/L111M1/vigiloom)
 
-The current HTML includes a sticky bilingual symptom finder, drug filters, investigated/catalog scopes, and direct links to reviewed reactions in the sidebar. Search runs inside the page without model or backend requests.
-
-Internal report links reveal a circular upward-arrow control that returns to the previous reading position. The control supports consecutive returns and is excluded from PDF output.
+The [evidence audit](evidence-audit.md) is a historical note dated 1 November and is not a publication status summary for the full library.

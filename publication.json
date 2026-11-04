@@ -1,26 +1,67 @@
 {
+  "version": 2,
   "published_date": "2026-11-04",
-  "run": "pregabalin_four_v1",
-  "session_id": "cde2c6cb246efcd80575062fa946ca9137acc16f140326b0c84b902ec67a4748",
-  "investigations": 24,
-  "completed": 24,
+  "generator_commit": "fffadbd44ff8a6c1b340ce6b489aebe962cdcf01",
+  "legacy_report": "pregabalin",
+  "reports": [
+    {
+      "slug": "sglt2",
+      "run_dir": "runs/sglt2_five_20261021",
+      "title_zh": "SGLT2 抑制剂（四药）",
+      "title_en": "SGLT2 inhibitors",
+      "detail_zh": "四药组合研究报告",
+      "detail_en": "Four-drug study",
+      "source_sha256": {
+        "report.html": "0ebac7ddb98d7fa95cd873dee9c4c825241f82cea0f2063e64ef6aacef83dab4",
+        "report_zh.html": "9d361a10d5ad08cdec817af95bea5c7589a5be379a7361c26264b1cddead46fd"
+      },
+      "pages": {
+        "en": "reports/sglt2/report.html",
+        "zh": "reports/sglt2/report_zh.html"
+      }
+    },
+    {
+      "slug": "cetirizine",
+      "run_dir": "runs/cetirizine_qwen38_v1",
+      "title_zh": "西替利嗪",
+      "title_en": "Cetirizine",
+      "detail_zh": "单药研究报告",
+      "detail_en": "Single-drug study",
+      "source_sha256": {
+        "report.html": "6ea2296da7e786425a9cbaf0672f3ab43f37a8a67f7ccea09c9bdcaff70b96a2",
+        "report_zh.html": "5fa08cc3c857c35f3fa7caafcb1c5999086627e36e8cf13d2815d98631b43692"
+      },
+      "pages": {
+        "en": "reports/cetirizine/report.html",
+        "zh": "reports/cetirizine/report_zh.html"
+      }
+    },
+    {
+      "slug": "pregabalin",
+      "run_dir": "runs/pregabalin_four_v1",
+      "title_zh": "普瑞巴林",
+      "title_en": "Pregabalin",
+      "detail_zh": "单药研究报告",
+      "detail_en": "Single-drug study",
+      "source_sha256": {
+        "report.html": "18fa41e23c2cac21ff757528944e8f605a98924bfcf9fb396a24a80991215177",
+        "report_zh.html": "82b4d2977d10de9c99244ef9e3893fab9cb352e0e6c9292fd1ed607be6aa6d29"
+      },
+      "pages": {
+        "en": "reports/pregabalin/report.html",
+        "zh": "reports/pregabalin/report_zh.html"
+      }
+    }
+  ],
   "files": {
-    "index.html": "64e3eab2599b3679c00079f33883bb2f85ef71334b4c8ce5efac458121acd7b1",
-    "report.html": "64e3eab2599b3679c00079f33883bb2f85ef71334b4c8ce5efac458121acd7b1",
-    "report_zh.html": "f56240f90324d4294a3ea6354b22cae48c03a0fd1da6e8159761854bb45ec88f"
-  },
-  "local_source_sha256": {
-    "index.html": "18fa41e23c2cac21ff757528944e8f605a98924bfcf9fb396a24a80991215177",
-    "report.html": "18fa41e23c2cac21ff757528944e8f605a98924bfcf9fb396a24a80991215177",
-    "report_zh.html": "82b4d2977d10de9c99244ef9e3893fab9cb352e0e6c9292fd1ed607be6aa6d29"
-  },
-  "line_endings": "Published UTF-8 uses LF; local Windows CRLF line endings are normalized by Git.",
-  "generator_commit": "cf9bfb45f37b7def3295eb6d1a2c7056bd7fc3d3",
-  "features": [
-    "bilingual symptom search",
-    "drug and investigation filters",
-    "mobile symptom finder",
-    "source-linked deep navigation",
-    "return to previous reading position"
-  ]
+    "reports/sglt2/report.html": "f0bd268e84628f7503af6db7cf8cc977c8ce7210e3bfa5ea5dd82c694ec31c67",
+    "reports/sglt2/report_zh.html": "47c03c48fd4922a83a1bf1fad993cbdca2b5691a1e0c068f36501e34644b08ba",
+    "reports/cetirizine/report.html": "70b793b6eede68bbe395224915e6a1825ed30db23d9d2937d78cc7bc244855bf",
+    "reports/cetirizine/report_zh.html": "fe1e6667fb795e95e657320f2ff8f6521da48f28c03356df3d43070fc3c0591a",
+    "reports/pregabalin/report.html": "c00d6525f338d70adb5239368a94f12509c23a72fb7b1f61d8ebbf84ccf0a91f",
+    "report.html": "e5818f29774e91dd3f542e236b79f030c1a3af2f6efe4ce4493e40a63818a390",
+    "reports/pregabalin/report_zh.html": "39f933b811af683285191c3b2c5791cbe404457207cee5515d78a5eacb5e7bab",
+    "report_zh.html": "dcf9eaf4ccd9672804b735fb8ba48d340f53044fbaab61773166e9c2468c1933",
+    "index.html": "bb3cc24a65870ff9265ae8a51547a710c74260b7286b7a0a290365705f495abd"
+  }
 }
