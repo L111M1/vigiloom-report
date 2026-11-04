@@ -21,3 +21,4 @@ To update the website, regenerate reports in the private local runs, update `con
 [Generator repository](https://github.com/L111M1/vigiloom)
 
 The [evidence audit](evidence-audit.md) is a historical note dated 1 November and is not a publication status summary for the full library.
+The sticky symptom finder also contains a visible three-study switcher. Switching studies preserves the reading language; the current study is highlighted. Print-report buttons have been removed.
