@@ -1,7 +1,7 @@
 {
   "version": 2,
   "published_date": "2026-11-05",
-  "generator_commit": "ad5958b83f87bde1de39c802771b1e48e0a3d8cf",
+  "generator_commit": "552fdaf669830e720b3b2cf89ac530bb998233ac",
   "legacy_report": "pregabalin",
   "reports": [
     {
@@ -51,17 +51,35 @@
         "en": "reports/pregabalin/report.html",
         "zh": "reports/pregabalin/report_zh.html"
       }
+    },
+    {
+      "slug": "tyrvaya",
+      "run_dir": "runs/tyrvaya_grouped_v1",
+      "title_zh": "Tyrvaya（伐尼克兰鼻喷剂）",
+      "title_en": "Tyrvaya (varenicline nasal spray)",
+      "detail_zh": "前20项优先候选调研报告",
+      "detail_en": "Top 20 priority candidates",
+      "source_sha256": {
+        "report.html": "6228819bdb23bd4c031315094f4e025b59e11f30c8499dcbeb26533b5d831061",
+        "report_zh.html": "8c46d60df69a7c037e06f9eaf4b6f961a671b1f189af4f74bb053104a7912bd9"
+      },
+      "pages": {
+        "en": "reports/tyrvaya/report.html",
+        "zh": "reports/tyrvaya/report_zh.html"
+      }
     }
   ],
   "files": {
-    "reports/sglt2/report.html": "4db6f12c3012d2b7c3ba45c319758ce4d4a3559e1a8cbbda8a69ae37603e5dad",
-    "reports/sglt2/report_zh.html": "fcd7274f1a9b48a5ef6a31378c33ef52225a281b1b66536081898170594285ef",
-    "reports/cetirizine/report.html": "20e7b942098c81f5cd7233b58be292ae51dc8505f1614ee673947ef02021537d",
-    "reports/cetirizine/report_zh.html": "def4fee5b518745678a8a46f6be7979623d5e389aafa5356ce67fb6adafa68a2",
-    "reports/pregabalin/report.html": "6a8b8cfe72fc616fb6a3fed9a0545fd3d195d48e267aa55498378ca9c3fda235",
-    "report.html": "3b3ad5cb58d0929d73602bef4e40212fbea48eaeca8ee41282a90a01f6504c2b",
-    "reports/pregabalin/report_zh.html": "4c1e9de98317ba0ced04653ffc93826cde9a953e5437735fc821b92c5a11ca65",
-    "report_zh.html": "32044acdc610be513b4169660a7aed9e745e726301b575ced0b5ea91a134ec5a",
-    "index.html": "b111a9ee7cf4d7179f12f51cfd66642f74348336039b732feb7bc9df45a0cb12"
+    "reports/sglt2/report.html": "fbced2cc28a6925d02228d5ce7ca083d16b39fa6bdfc06e1da10522e03aa7a76",
+    "reports/sglt2/report_zh.html": "87636e5fbb24a48a423482744e08d20d0021fd936a47203390a8cdb9a9b7bf9c",
+    "reports/cetirizine/report.html": "5e86eabfd434c7ba6dda25a4a9cdf02d733b0dfb3cf3c5903a1aaa8d9d884d03",
+    "reports/cetirizine/report_zh.html": "20fe91fc8d916efca69072c4c1a96918b210a29a41343a710267279877d79b0c",
+    "reports/pregabalin/report.html": "8ff40ec07ec516c1b2c4b731e96f644bb615550bc2ddb70d4cb809e18b572d9a",
+    "report.html": "7e8c68eaa7014569a542e2acee5ecb5d2008b62380fc8968bef0a1db88ec0927",
+    "reports/pregabalin/report_zh.html": "eb83c8fa87871329a397de6fc159a33fc7314bfda8e38468e6b4b3e89988a29c",
+    "report_zh.html": "7cb112d749c3945308f9f958614e9a21583e826bbf7612caae3b60b354ad3f2d",
+    "reports/tyrvaya/report.html": "392376e36030e6e8db1a20ff541d0f8812f747298ee8db073b37dfee82a278a4",
+    "reports/tyrvaya/report_zh.html": "f795348e073a8afed21bd656439d4532cd24f152fcdc3d670a5579145defa9e4",
+    "index.html": "a910946247d2cf216a8b1e54318010182394061039a1221507dba0c62f5d279f"
   }
 }
