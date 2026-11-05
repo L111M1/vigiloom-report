@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "published_date": "2026-11-04",
-  "generator_commit": "bcddb03af1c4929cc22f09f249d45fdf10c5fc32",
+  "published_date": "2026-11-05",
+  "generator_commit": "3895966ccf05cf5fb9ae9c2aa0081450551eeb57",
   "legacy_report": "pregabalin",
   "reports": [
     {
@@ -12,8 +12,8 @@
       "detail_zh": "四药组合研究报告",
       "detail_en": "Four-drug study",
       "source_sha256": {
-        "report.html": "f44c1914a03bdd25038e0b5dc63c589150369849f4cb1dc8e5bc8cfd1e3e57a6",
-        "report_zh.html": "61105585b5bd5fe14c1c14fdb865c6dad9ae71c3893041382886935c525725c2"
+        "report.html": "7c1e4784a907df402c09f2c6cd1c784d598b2fabba52b0d101a0a0c17d5e063e",
+        "report_zh.html": "7b43a2f1fee1dbae620a7b546f374fd8622c313612f14675cadbf724fb2dd42b"
       },
       "pages": {
         "en": "reports/sglt2/report.html",
@@ -28,8 +28,8 @@
       "detail_zh": "单药研究报告",
       "detail_en": "Single-drug study",
       "source_sha256": {
-        "report.html": "832164c8d280c1e2a4d391abf3830fe9c4b1cc96bac36b4d152fdcb94672bcbc",
-        "report_zh.html": "2d6575ea79fe06a2e055561629c512b5a0d41dbf3ee89bce7409c79fc9b188d3"
+        "report.html": "5b7e886c011378454c58a492abf04e7f1b8d34f1b419a70e8f12302bda50d638",
+        "report_zh.html": "19bce1390ddf085f3b76f66ed39859a1ade38340b4baefd649b4bef4dfb04867"
       },
       "pages": {
         "en": "reports/cetirizine/report.html",
@@ -44,8 +44,8 @@
       "detail_zh": "单药研究报告",
       "detail_en": "Single-drug study",
       "source_sha256": {
-        "report.html": "697e8392cde319fedb76dcccabc30af149299016a281780c0d5a6934a28fc465",
-        "report_zh.html": "0c6ab2eeff0518b52487c1ac1d6bcd94178bcbe9358c471e89b55ce46439d755"
+        "report.html": "8016e3c4e18fccc038b8885f1353d94f414df76fc49500ed950a1c64c971f9d5",
+        "report_zh.html": "09cf0c562103b721507874132c86160d15488e043762efb223d2808755f7a084"
       },
       "pages": {
         "en": "reports/pregabalin/report.html",
@@ -54,14 +54,14 @@
     }
   ],
   "files": {
-    "reports/sglt2/report.html": "75b8fbde262b6d6e92294e41896ce85c19676fbed4caa123f5f10fdc02b6a006",
-    "reports/sglt2/report_zh.html": "2cf663f3c511df7df5f4046a19f1b7eb684e30eccee6540ccba2a9e00a7a17fd",
-    "reports/cetirizine/report.html": "e55b3c53ea183388835fcd6efc50a8cfde1e4365531f7028d1ccd698122c3710",
-    "reports/cetirizine/report_zh.html": "bdc0a17e5d090ee7eba992662db568860b6dccddcda551ac204acf90fff02f09",
-    "reports/pregabalin/report.html": "aa70e9c86dda08168f7c2fa6d5b6f59ba4053682a6f899d5a94aee1e64ba8a30",
-    "report.html": "d59d05e611c8e2d6427f0f08e110801dc7e4e028732b93188aaded284d07aaa7",
-    "reports/pregabalin/report_zh.html": "b03ed1c10024f037176d6c040fe1e2bccbbf89d003df7130b85268147898bbde",
-    "report_zh.html": "0a987444546cff0798048b3455b027c13936b97594f0eb6f5b881052d3b246da",
+    "reports/sglt2/report.html": "9bac21e114edd77fb8b1b590ecf561aa4a2f0838363a4b8d9da888b7a3b72a12",
+    "reports/sglt2/report_zh.html": "b412abdc4b73d82700fc644a82f9ff436a886bb46d4ae58b86aeb4db98124e09",
+    "reports/cetirizine/report.html": "fe1a7fefc96aeecf36735761c0fb8c8c2d61dd4c6398374745ed41e720855749",
+    "reports/cetirizine/report_zh.html": "86c183a7a60b13eb392133acea0701306b4365b7949bd53142fba5e69bc3efdd",
+    "reports/pregabalin/report.html": "1cfdc13b595dbe97e42889cf9319b147e08830ef5eb161364742127188e76eef",
+    "report.html": "4fbc7800769c842d4798517c9bfab230a62ca1601de8de82d57bcfc1d4943bb8",
+    "reports/pregabalin/report_zh.html": "194c310aa6d37bba06c8dabe1e44a880c3491d893d6b8af39d2877cb44366f42",
+    "report_zh.html": "0062898fd0eb382e02ec1c488a95cc2ee4bf60a7ebb6cd7ae07313a6776bef28",
     "index.html": "b111a9ee7cf4d7179f12f51cfd66642f74348336039b732feb7bc9df45a0cb12"
   }
 }
